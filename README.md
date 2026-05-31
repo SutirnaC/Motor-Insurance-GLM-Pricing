@@ -1,7 +1,7 @@
 # Motor-Insurance-GLM-Pricing
 Repository containing my personal project of Motor Insurance Pricing using GLM
 
-## 📊 Executive Summary
+## Executive Summary
 This repository contains a complete, end-to-end modernized multivariate pricing engine for a Comprehensive Personal Motor Insurance portfolio. 
 
 In highly commoditized, aggregator-driven markets, outdated one-way tariff structures lead to adverse selection—overpricing low-risk drivers and underpricing high-risk drivers. This project solves that by replacing a legacy pricing model with a multivariate **Generalized Linear Model (GLM)** framework to accurately calculate the technical pure premium (risk cost) and eliminate cross-subsidization.
@@ -13,7 +13,7 @@ In highly commoditized, aggregator-driven markets, outdated one-way tariff struc
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 /Motor-Pricing-GLM
@@ -74,3 +74,6 @@ Future ExtensionsMachine Learning Challengers: Implementing an XGBoost model to 
 Price Elasticity Modeling: Building a Logistic Regression retention model to optimize commercial pricing beyond the technical pure premium.
 
 Bayesian Credibility: Applying PyMC for hierarchical modeling to dynamically credibility-weight rural geographic segments with sparse data.
+
+
+
